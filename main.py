@@ -29,6 +29,14 @@ is a compliment with no wound in it, "haunting" is a ghost story with
 no warmth in it. Unforgettable is the exact word an ex would use
 when they are trying to sound over you and failing in real time.
 
+Against the judge's brief, the word wins on the first criterion
+before anything else: it is plainly a word an ex would say about a
+former partner, not a word about an ex, and every later criterion
+only sharpens that fit. It also beats a plain insult, because the
+brief rewards a word that stings by being true, and Unforgettable
+stings exactly by being true: nobody forgettable ever gets called
+unforgettable by an ex.
+
 The program writes the word verbatim to
 $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt) with no
 trailing newline.
